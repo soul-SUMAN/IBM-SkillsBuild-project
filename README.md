@@ -1,4 +1,3 @@
-<img width="1919" height="931" alt="Screenshot 2025-08-01 031906" src="https://github.com/user-attachments/assets/88faffb1-b06c-4551-8f34-53c0f8c62805" />
 # 🤖 Interview Trainer Agent | IBM SkillsBuild Project
 
 This repository documents the final project submitted as part of the **IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies**, a collaborative initiative by **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
