@@ -129,7 +129,7 @@ The solution uses IBM Watsonx foundation models with RAG to simulate interview c
   - Real-time feedback and improvement tips
 - High relevance and accuracy using Watsonx foundation models
 - Smooth integration of role-based PDFs via RAG
-- 
+
 Results Screen shots:
 <img width="1919" height="930" alt="Screenshot 2025-08-01 034418" src="https://github.com/user-attachments/assets/98d0d76b-3c7b-4c89-9b89-901c9b670196" />
 <img width="1919" height="927" alt="Screenshot 2025-08-01 034453" src="https://github.com/user-attachments/assets/9ebcf5e8-8e6c-4bbe-a419-a864aa7a5ca3" />
