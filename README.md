@@ -1,4 +1,4 @@
-
+<img width="1919" height="931" alt="Screenshot 2025-08-01 031906" src="https://github.com/user-attachments/assets/88faffb1-b06c-4551-8f34-53c0f8c62805" />
 # 🤖 Interview Trainer Agent | IBM SkillsBuild Project
 
 This repository documents the final project submitted as part of the **IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies**, a collaborative initiative by **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
@@ -137,6 +137,8 @@ Results Screen shots:
 <img width="1918" height="927" alt="Screenshot 2025-08-01 034523" src="https://github.com/user-attachments/assets/9914097b-0af8-4cda-8615-2350781fe92b" />
 <img width="1919" height="929" alt="Screenshot 2025-08-01 034541" src="https://github.com/user-attachments/assets/55f4dffd-581c-4d60-b0bb-5db30bbcbf6d" />
 <img width="1919" height="929" alt="Screenshot 2025-08-01 144534" src="https://github.com/user-attachments/assets/307a3d76-e0e2-4e2e-b2f9-7d4b5e703057" />
+<img width="1919" height="931" alt="Screenshot 2025-08-01 031906" src="https://github.com/user-attachments/assets/179ab996-b92a-4b77-ad02-cbb5f4325a26" />
+<img width="1919" height="930" alt="Screenshot 2025-08-01 032006" src="https://github.com/user-attachments/assets/57a92c7e-c627-4b26-aad9-efef0217cfae" />
 
 > ✅ This project met all requirements for successful internship completion.
 
